@@ -267,9 +267,8 @@ elif selected == "About":
     - **Project**: Used Cars EDA
     - **Author**: Amit Singh
     - **Tools Used**: Python, Streamlit, Pandas, Matplotlib/Seaborn
-    - **GitHub**: [Link to Repository](#)
+    - **GitHub**: https://github.com/Amit-Singh-P/CarsEDA/
     """)
 
     st.balloons()
 
-# https://github.com/Amit-Singh-P/CarsEDA
