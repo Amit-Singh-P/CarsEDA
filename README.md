@@ -62,23 +62,24 @@ CarsEDA/
 └── README.md # Project documentation
 
 ---
+## Home Page
+<img width="1451" alt="Screenshot 2025-06-28 at 10 49 36 PM" src="https://github.com/user-attachments/assets/5ce19e3c-f324-4df7-84b5-9fec0c1652e6" />
 
+---
 ## 🔧 Setup Instructions
 
 1. **Clone the repository**
-
-```bash
 git clone https://github.com/Amit-Singh-P/CarsEDA.git
 cd CarsEDA
 
-2. Create a virtual environment (recommended)
+2. **Create a virtual environment (recommended)**
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
 
-3. Install dependencies
+3. **Install dependencies**
 pip install -r requirements.txt
 
-4. Run the app
+4. **Run the app**
 streamlit run app.py
 
 
@@ -95,7 +96,5 @@ Share your feedback
 Fork and try your own analysis!
 
 
-**Home Page
-<img width="1451" alt="Screenshot 2025-06-28 at 10 49 36 PM" src="https://github.com/user-attachments/assets/5ce19e3c-f324-4df7-84b5-9fec0c1652e6" />
 
 
